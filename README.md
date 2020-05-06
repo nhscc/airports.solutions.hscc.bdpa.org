@@ -1,2 +1,2 @@
-# ps-2020-airlines
+# 2020.solutions.hscc.bdpa.org
 
